@@ -4,7 +4,7 @@ Nofun contains a Mophun emulator, written in C# and currently run under Unity en
 
 Currently, the emulator still is not mature for many 3D games, and does not support encrypted/compressed.
 
-## Download
+## Download test
 
 It's recommended to download the emulator through the **Releases** section on the project's Github page.
 
