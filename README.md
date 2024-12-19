@@ -7,7 +7,7 @@ Currently, the emulator still is not mature for many 3D games, and does not supp
 ## Download test
 
 It's recommended to download the emulator through the **Releases** section on the project's Github page.
-
+ bubhb
 ## Screenshots
 
 | The DaVinci Code         |  Sushi Fighter           |
